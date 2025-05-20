@@ -8,9 +8,9 @@ git commit -m "$1"
 
 git push
 
-cp FSE.html /home/lixi/workspace/GitHub/Lixi20.github.io/FSE/index.html
+cp FSE.html /home/lx/Documents/Lixi20.github.io/FSE/index.html
 
-cd /home/lixi/workspace/GitHub/Lixi20.github.io
+cd /home/lx/Documents/Lixi20.github.io
 
 git add .
 
